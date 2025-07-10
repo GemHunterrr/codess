@@ -1,3 +1,3 @@
 # Project Title
-## How to Contribute\nFork and PR.
+## Intro to nFork .
 Fixing typos
